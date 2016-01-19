@@ -1,0 +1,4 @@
+Documentation for Drop Down Menu: 
+1. Put menu in <nav> and give <ul> class of "drop-down" 
+2. Can edit text alignment in CSS "nav ul.drop-down"
+3. Can change back ground color in CSS "nav" and "nav ul.drop-down li:hover ul"
